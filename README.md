@@ -47,3 +47,7 @@ https://git-scm.com/download
 - *`git push -u origin master`
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+
+###Clonar
+*`git clone Link_do_repositorio_Github`
+*`git checkout -b ____`
