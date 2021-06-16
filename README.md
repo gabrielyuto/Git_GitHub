@@ -24,6 +24,8 @@ https://git-scm.com/download
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
 - [x] Você precisa recuperar algo deletado.
 
+# COMANDOS
+
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
 - * `git add .` //adiciona todos os arquivos da pasta
@@ -41,13 +43,13 @@ https://git-scm.com/download
 * `git merge` // unir linhas do tempo
 - * `git merge NOME_DA_BRANCH`
 
-###Enviar o repositório local para o repositório remoto
+### Enviar o repositório local para o repositório remoto
 * `git remote add origin (link do github)`// linkar o repositorio local com o remoto
 * `git push` // envia alterações locais para o repositório remoto
 - *`git push -u origin master`
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
 
-###Clonar
+### Clonar
 *`git clone Link_do_repositorio_Github`
 *`git checkout -b ____`
